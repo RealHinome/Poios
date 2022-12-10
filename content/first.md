@@ -1,15 +1,23 @@
 +++
-title = "L’anonymat sur les réseaux sociaux est-il un facteur de liberté ? La psychanalyste Claude Halmos répond"
-description = "« Le divan du monde ». Dans cette chronique, la psychanalyste s’appuie sur vos témoignages et questionnements pour décrypter comment l’état du monde percute nos vies intimes."
+title = "Hausse des taux directeurs de la BCE pour contrer l'inflation"
+description = "Lutte contre l'inflation : une hausse des taux directeurs et des taux d'intérêts par la Banque Cenrale Européenne. Voici pourquoi !"
 date = 2022-12-10
 draft = false
-slug = "anonymat-sur-les-reseaux-sociaux-est-il-un-facteur-de-liberte"
+slug = "hausse-des-taux-directeurs-de-la-BCE-pour-contrer-inflation"
 
 [extra]
-image = "https://img.lemde.fr/2022/09/09/0/0/1500/1000/1328/0/45/0/072a133_1662728354613-29756dff-c9b5-46c9-a1ec-9d355d259bdc.jpeg"
-image_alt = "Dessin pour l'anonymat des réseaux"
+image = "/content/ECB.webp"
+image_alt = "Photo of the European Central Bank, from Wikipedia (CC BY-SA 2.0)"
+image_credit = "Kiefer. from Frankfurt, Germany, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+category = "Economy"
+sources = [
+    "https://www.lemonde.fr/economie/article/2022/09/08/zone-euro-la-bce-decide-d-une-hausse-historique-des-taux-de-0-75-point-pour-combattre-l-inflation-galopante_6140736_3234.html",
+    "https://www.vie-publique.fr/en-bref/286938-zone-euro-la-bce-poursuit-la-hausse-des-taux",
+    "https://investir.lesechos.fr/marches-indices/devises-taux/la-bce-doit-encore-relever-les-taux-mais-le-pic-dinflation-est-proche-lane-1886247",
+    "https://www.latribune.fr/economie/international/bce-de-nouvelles-hausses-de-taux-en-2023-mais-a-un-rythme-plus-lent-recommande-le-chef-economiste-941544.html-",
+    "https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp221027~df1d778b84.fr.html",
+    "https://www.lemonde.fr/idees/article/2022/12/02/la-politique-monetaire-restrictive-de-la-bce-risque-de-produire-une-recession_6152702_3232.html"
+]
 +++
 
-La possibilité de cacher son identité dans l’espace public, en s’y présentant sous un pseudonyme, a toujours eu deux fonctions, très différentes. Elle permet à ceux qui doivent, pour parler ou agir, braver des interdits de (tenter) d’échapper à la répression qui menace leur liberté, leur emploi ou leur vie. Les militants, les résistants comme les lanceurs d’alerte peuvent – et c’est heureux – en user. Mais elle a aussi une autre fonction, moins noble, celle de permettre d’accomplir, en restant caché, des actes qui portent préjudice aux autres : dénonciations, harcèlement, diffamation, appels à la haine.
-
-Ces deux possibilités sont à l’œuvre aujourd’hui sur les réseaux sociaux, et la seconde, qui génère de nombreux débats, conduit beaucoup d’intervenants à demander la suppression du « pseudonymat ». Notre propos n’est pas de prendre parti sur ce point, mais d’interroger ce que la possibilité du masque (autrement dit le pseudonyme) peut provoquer dans les têtes, et notamment dans celles des plus jeunes.
+La **BCE** (Banque Centrale Européenne), présidée par Christine Lagarde depuis 2019, ex-directrice générale du FMI (Fonds monétaire international), a augmenté ses taux directeurs, mais aussi ses taux d'intérêts.
