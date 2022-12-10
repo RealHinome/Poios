@@ -11,7 +11,7 @@ build_search_index = true
 minify_html = true
 
 # When set to "true", a feed is automatically generated.
-generate_feed = false
+generate_feed = true
 
 # The default language; used in feeds.
 default_language = "fr"
@@ -19,7 +19,7 @@ default_language = "fr"
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+highlight_code = true
 
 [extra]
 # Put all your custom variables here
