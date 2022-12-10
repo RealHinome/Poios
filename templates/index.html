@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1 class="pt-11 text-center font-extrabold text-4xl">
+    Les dernières actualités
+  </h1>
+
+  <br /><br />
+  <div class="mx-auto max-w-7xl overflow-hidden py-12 px-4 sm:px-6 lg:px-8 w-90 bg-white shadow-sm">
+    {% for page in section.pages %}
+      <a href="{{ page.permalink | safe }}">
+        <span class="flex space-x-6">
+          <img width="400" src="{{ page.extra.image }}" alt="{{ page.extra.image_alt }}" />
+          <span>
+            <h2 class="text-xl font-bold">{{page.title}}</h2>
+            <p class="pt-6">{{page.description}}</p>
+          </span>
+        </span>
+      </a>
+    {% endfor %}
+  </div>
+{% endblock content %}
