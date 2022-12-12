@@ -1,6 +1,6 @@
 +++
 title = "Hausse des taux directeurs de la BCE pour contrer l'inflation"
-description = "Lutte contre l'inflation : une hausse des taux directeurs et des taux d'intérêts par la Banque Cenrale Européenne. Voici pourquoi !"
+description = "Lutte contre l'inflation : une hausse des taux directeurs et des taux d'intérêts par la Banque Cenrale Européenne. Des gouvernements réticents, une politique qui risque d'accentuer le ralantissement économique."
 date = 2022-12-10
 draft = false
 slug = "hausse-des-taux-directeurs-de-la-BCE-pour-contrer-inflation"
@@ -9,7 +9,7 @@ slug = "hausse-des-taux-directeurs-de-la-BCE-pour-contrer-inflation"
 image = "/content/ECB.webp"
 image_alt = "Photo of the European Central Bank, from Wikipedia (CC BY-SA 2.0)"
 image_credit = "Kiefer. from Frankfurt, Germany, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
-category = "Economy"
+category = "Économie"
 word = "https://1drv.ms/w/s!AlspBspWfTI8xDBMYPfk9kYGGxvk?e=keY9oi"
 sources = [
     "https://www.lemonde.fr/economie/article/2022/09/08/zone-euro-la-bce-decide-d-une-hausse-historique-des-taux-de-0-75-point-pour-combattre-l-inflation-galopante_6140736_3234.html",
@@ -31,7 +31,7 @@ La **BCE** (Banque centrale européenne), présidée par Christine Lagarde depui
 
 <br />
 
-Atteignant aujourd’hui environ 9,1 % en rythme annuel dans l’Eurozone, selon les chiffres d’[Eurostat](https://ec.europa.eu/eurostat/documents/2995521/14675409/2-31082022-AP-FR.pdf/80646c93-6615-2baa-07aa-9eda7a5e5e6c?t=1661863347149), 6,5 % en France grâce au bouclier tarifaire lancé par le gouvernement fin 2021, prolongé jusqu’au 1er février 2023, voire même près de 20 % dans les Etats ex-soviétiques dépendant en grande partie des oléoducs russes.
+Atteignant aujourd’hui environ 9,1 % en rythme annuel dans l’Eurozone, selon les chiffres d’[Eurostat](https://ec.europa.eu/eurostat/documents/2995521/14675409/2-31082022-AP-FR.pdf/80646c93-6615-2baa-07aa-9eda7a5e5e6c?t=1661863347149), 6,5 % en France grâce au bouclier tarifaire lancé par le gouvernement fin 2021, prolongé jusqu’au 1er février 2023, voire même près de 20 % dans les États ex-soviétiques dépendant en grande partie des oléoducs russes.
 
 <br />
 
