@@ -10,14 +10,18 @@
     Page d'accueil
   </a>
 
-  <div class="w-full lg:w-1/2 xl:w-2/5 mx-auto bg-white rounded-sm px-6 py-4">
-    <h1 class="text-2xl font-bold">{{ page.title }}</h1>
-    <h3 class="font-medium">{{ page.description }}</h3>
+  <div class="w-full lg:w-1/2 xl:w-4/6 min-[1600px]:2/5 mx-auto bg-white rounded-sm px-6 py-4">
+    <span class="bg-zinc-900 px-2.5 py-1.5 text-white text-sm rounded-sm">{{ page.extra.category }}</span>
+    <h1 class="text-4xl font-bold">{{ page.title }}</h1>
+    <div class="flex">
+      <h3 class="font-medium">{{ page.description }}</h3>
+      <!-- <a href="{{ page.extra.word }}" target="_blank" class="hidden lg:block"><img alt="Microsoft Word" width="60" height="auto" src="/Word.webp" draggable="false" /></a> -->
+    </div>
     <p class="text-gray-600 text-sm pt-2">Publié le {{ page.date }}</p>
     <br /><hr /><br />
     <div class="flex">
       <img width="600" height="100" src="{{ page.extra.image }}" alt="{{ page.extra.image_alt }}" />
-      <span class="pl-4"></span><div class="w-full border pl-4 hidden 2xl:block">
+      <span class="pl-4"></span><div class="w-full border pl-4 hidden xl:block">
         <p class="font-bold text-xl pt-2">Les chiffres clés</p>
         {% for key in page.extra.key %}
           <p>· {{ key }}</p>
@@ -27,5 +31,7 @@
     <p class="text-gray-600 text-xs">{{ page.extra.image_credit }}</p>
     <br />
     <span>{{ page.content | safe }}</span>
+    <br /><br />
+    <p id="editor" class="font-bold">- Poios</p>
   </div>
 {% endblock content %}
