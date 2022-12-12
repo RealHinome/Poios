@@ -10,6 +10,7 @@ image = "/content/ECB.webp"
 image_alt = "Photo of the European Central Bank, from Wikipedia (CC BY-SA 2.0)"
 image_credit = "Kiefer. from Frankfurt, Germany, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 category = "Economy"
+word = "https://1drv.ms/w/s!AlspBspWfTI8xDBMYPfk9kYGGxvk?e=keY9oi"
 sources = [
     "https://www.lemonde.fr/economie/article/2022/09/08/zone-euro-la-bce-decide-d-une-hausse-historique-des-taux-de-0-75-point-pour-combattre-l-inflation-galopante_6140736_3234.html",
     "https://www.vie-publique.fr/en-bref/286938-zone-euro-la-bce-poursuit-la-hausse-des-taux",
