@@ -8,7 +8,7 @@ slug = "hausse-des-taux-directeurs-de-la-BCE-pour-contrer-inflation"
 [extra]
 image = "/content/ECB.webp"
 image_alt = "Photo of the European Central Bank, from Wikipedia (CC BY-SA 2.0)"
-image_credit = "Kiefer. from Frankfurt, Germany, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons"
+image_credit = "Kiefer. from Frankfurt, Germany, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 category = "Economy"
 word = "https://1drv.ms/w/s!AlspBspWfTI8xDBMYPfk9kYGGxvk?e=keY9oi"
 sources = [
