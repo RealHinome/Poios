@@ -921,3 +921,9 @@ video {
     width: 66.666667%;
   }
 }
+
+@media (min-width: 1600px) {
+  .min-\[1600px\]\:w-2\/4 {
+    width: 50%;
+  }
+}
