@@ -37,7 +37,7 @@ En **Syrie**, et jusqu'en **2014**, le cimentier français **Lafarge** a payé d
 
 <br />
 
-À cause de cela, en octobre 2022, Lafarge après avoir énoncé qu'ils regrettaient « profondément », a plaidé coupable aux États-Unis, pour éviter les tribunaux, et a déboursé **778 millions de dollars**. Néanmoins, le groupe français, aujourd'hui détenu par Holcim, reste sous le coup d’une mise en examen, depuis le 18 mai, pour « complicité de crime contre l’humanité » ainsi que pour « mise en danger de la vie d’autrui » dû à la continuation des activés à l’usine de Jalabiya, en France. 
+En raison de cela, en octobre 2022, Lafarge, après avoir déclaré regretter « profondément », a plaidé coupable aux États-Unis, pour éviter les poursuites, et a déboursé **778 millions de dollars**. Néanmoins, le groupe français, aujourd'hui détenu par Holcim, reste sous le coup d’une mise en examen, depuis le 18 mai, pour « complicité de crime contre l’humanité » ainsi que pour « mise en danger de la vie d’autrui » dû à la continuation des activés à l’usine de Jalabiya, en France.
 
 <br /><br />
 
@@ -47,7 +47,7 @@ Plus récemment, la cimenterie Lafarge a été vandalisée par des militants éc
 
 Plusieurs dizaines de personnes ont pénétré sur le site au nord de Marseille, vêtues de combinaisons blanches. Ce samedi 10 décembre, des militants écologistes ont saboté l’usine située sur la commune de Bouc-Bel-Air et, selon le journal La Province, ont causé d’importants dégâts : en mettant feu à des engins ou encore, en détruisant du matériel (caméras de surveillance, tuyaux). 
 
-Une vidéo, publiée sur plusieurs sites, nous montre des actes de vandalisme, avec, en autre, un graffiti « c’est qui les dindons de la Farge ? ». Un activiste raconte que cet acte était simplement des « dégâts matériels » visant à démontrer les « dégâts de l’entreprise […] sur la santé, et sur l’environnement ». 
+Une vidéo, publiée sur plusieurs sites, nous montre des actes de vandalisme, avec, entre autres, un graffiti « c’est qui les dindons de la Farge ? ». Un activiste raconte que cet acte consistait simplement en des « dégâts matériels » visant à démontrer les « dégâts de l’entreprise […] sur la santé, et sur l’environnement ». 
 
 <br />
 
