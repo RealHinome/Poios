@@ -20,8 +20,8 @@ sources = [
     "https://www.tf1info.fr/international/lafarge-va-payer-778-millions-de-dollars-pour-avoir-finance-etat-islamique-en-syrie--2235860.html"
 ]
 key = [
-    "Financement jusqu'en 2014",
-    "778 millions de dollar aux États-Unis pour l'abandon des charges"
+    "Financement de groupes terroristes jusqu'en 2014",
+    "778 millions de dollars aux États-Unis pour l'abandon des charges"
 ]
 +++
 
@@ -37,7 +37,7 @@ En **Syrie**, et jusqu'en **2014**, le cimentier français **Lafarge** a payé d
 
 <br />
 
-À cause de cela, en octobre 2022, Lafarge après avoir énoncé qu'ils regrettaient « profondément », a plaidé coupable aux États-Unis, pour éviter les tribunaux, et a déboursé **778 millions de dollar**. Néanmoins, le groupe français, aujourd'hui détenu par Holcim, reste sous le coup d’une mise en examen, depuis le 18 mai, pour « complicité de crime contre l’humanité » ainsi que pour « mise en danger de la vie d’autrui » dû à la continuation des activés à l’usine de Jalabiya, en France. 
+À cause de cela, en octobre 2022, Lafarge après avoir énoncé qu'ils regrettaient « profondément », a plaidé coupable aux États-Unis, pour éviter les tribunaux, et a déboursé **778 millions de dollars**. Néanmoins, le groupe français, aujourd'hui détenu par Holcim, reste sous le coup d’une mise en examen, depuis le 18 mai, pour « complicité de crime contre l’humanité » ainsi que pour « mise en danger de la vie d’autrui » dû à la continuation des activés à l’usine de Jalabiya, en France. 
 
 <br /><br />
 
