@@ -7,7 +7,7 @@ slug = "lafarge-sous-le-coup-de-multiples-embarras"
 
 [extra]
 image = "/content/Lafarge.webp"
-image_alt = "Photo of a Lafarge cement plant, from Wikipedia (CC BY-SA 2.0)"
+image_alt = "Photo of a Lafarge cement plant, from Wikipedia (CC BY-SA 3.0)"
 image_credit = "Jack ma, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
 category = "Droit"
 word = "https://1drv.ms/w/s!AlspBspWfTI8xDzLhTSA5Y4Hz15u?e=m1cChS"
