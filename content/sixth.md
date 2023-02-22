@@ -18,7 +18,7 @@ sources = [
 ]
 key = [
     "Elève de 16 ans placé en garde à vue",
-    "Enseignante de 53 ans tuée"
+    "Enseignante de 52 ans tuée"
 ]
 +++
 
@@ -26,7 +26,7 @@ Une professeure du collège-lycée Saint-Thomas d'Aquin à Saint-Jean-de-Luz, da
 
 <br />
 
-L’élève a été interpellé, puis placé en garde à vue. Après avoir bloqué la sortie, et sorti un couteau de son sac, l’adolescent de seconde a poignardé sa professeure d’espagnol, âgée de 53 ans. Celle-ci a été touchée près du sternum (partie antérieure de la cage thoracique). Malgré l’intervention rapide des secours sur place, l’enseignante, en état d’arrêt cardiorespiratoire, est décédée. Pendant l’intervention, les autres élèves ont été confinés dans des salles de classe, durant environ 2 heures. A la mi-journée, tous les élèves sont partis de l’établissement - à l’exception de ceux qui étaient en cours avec l’enseignante tuée. « J'imagine à peine le traumatisme que cela peut représenter localement et plus généralement à l'échelle de la nation », a déclaré le porte-parole du gouvernement, Olivier Veran, devant la presse, à sa sortie du Conseil des ministres. 
+L’élève a été interpellé, puis placé en garde à vue. Après avoir bloqué la sortie, et sorti un couteau de son sac, l’adolescent de seconde a poignardé sa professeure d’espagnol, âgée de 52 ans. Celle-ci a été touchée près du sternum (partie antérieure de la cage thoracique). Malgré l’intervention rapide des secours sur place, l’enseignante, en état d’arrêt cardiorespiratoire, est décédée. Pendant l’intervention, les autres élèves ont été confinés dans des salles de classe, durant environ 2 heures. A la mi-journée, tous les élèves sont partis de l’établissement - à l’exception de ceux qui étaient en cours avec l’enseignante tuée. « J'imagine à peine le traumatisme que cela peut représenter localement et plus généralement à l'échelle de la nation », a déclaré le porte-parole du gouvernement, Olivier Veran, devant la presse, à sa sortie du Conseil des ministres. 
 
 <br />
 
