@@ -1,6 +1,6 @@
 +++
 title = "Guerre en Ukraine : l'influence des Etats-Unis"
-description = "Les États-Unis, au-delà de leur hégémonie, utilise leurs services pour influencer la guerre."
+description = "Les États-Unis, au-delà de leur hégémonie, utilisent leurs services pour influencer la guerre."
 date = 2022-12-26
 draft = false
 slug = "guerre-en-ukraine-influence-des-etats-unis"
