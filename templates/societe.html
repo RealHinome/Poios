@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% set section = get_section(path="_index.md") %}
+    {% set pages = section.pages | filter(attribute="extra.category", value="Société") %}
+    <h1 align="center" class="pt-6 text-4xl font-bold">Société</h1>
+
+    {% if pages | length == 0 %}
+        <br /><br />
+        <div class="flex justify-center items-center">
+            <p>Aucun article publié dans cette catégorie</p>
+        </div>
+        <br /><br />
+    {% else %}
+        <div class="flex justify-center items-center">
+            <div class="w-3/5">
+            <div class="grid grid-cols-3 2xl:grid-cols-4 gap-y-16 place-items-center pt-9">
+                {% for page in pages %}
+                    <div class="w-2/3">
+                    {% set image = resize_image(path=page.extra.image, width=338, height=252, op='fill', format='webp', quality=80) %}
+                    <a href="{{ page.permalink | safe }}">
+                        <img class="rounded-sm" loading="lazy" draggable="false" width="240" height="180" src="{{ image.url }}" alt="{{ page.extra.image_alt }}" />
+                        <p class="text-md font-semibold pt-2">{{ page.title }}</p>
+                        <p class="text-sm text-gray-700 pt-2">{{ page.description }}</p>
+                    </a>
+                    </div>
+                {% endfor %}
+            </div>
+            </div>
+        </div>
+    {% endif %}
+{% endblock content %}
