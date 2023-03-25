@@ -6,7 +6,7 @@ draft = false
 slug = "une-professeure-decede-apres-avoir-ete-poignardee"
 
 [extra]
-image = "/content/Saint-Jean-de-Luz.webp"
+image = "/content/Saint_Jean_De_Luz.jpeg"
 image_alt = "Photo of the Saint-Jean-de-Luz et son port, from Wikipedia (CC BY-SA 3.0)"
 image_credit = "Calips, CC BY-SA <https://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
 category = "Société"
