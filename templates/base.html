@@ -11,22 +11,16 @@
         <link rel="stylesheet" href="/tailwind.css" />
     </head>
     <body class="bg-gray-100 dark:bg-zinc-900 dark:text-white">
-        <div class="h-14 bg-[#151515] text-white flex justify-center items-center">
-            <div class="flex space-x-7 mr-[30rem]">
+        <div class="h-14 bg-[#151515] text-white flex">
+            <div class="mx-auto items-center flex space-x-7">
+                {% set image = resize_image(path='/favicon.webp', width=80, height=70, op='scale', format='webp', quality=100) %}
+                <a href="/" ><img alt="Poios" src="{{ image.url }}" width="40" height="40" draggable="false" /></a>
                 <a href="/politique" class="text-sm text-gray-100 font-semibold">Politique</a>
                 <a href="/economie" class="text-sm text-gray-100 font-semibold">Économie</a>
                 <a href="/droit" class="text-sm text-gray-100 font-semibold">Droit</a>
                 <a href="/societe" class="text-sm text-gray-100 font-semibold">Société</a>
                 <a href="/culture" class="text-sm text-gray-100 font-semibold">Culture</a>
             </div>
-            {% set image = resize_image(path='/favicon.webp', width=80, height=70, op='scale', format='webp', quality=100) %}
-            <a href="/" class="absolute"><img alt="Poios" src="{{ image.url }}" width="40" height="40" draggable="false" /></a>
-            <a href="/search" class="flex space-x-2">
-                <p class="text-sm text-gray-100 font-semibold">Rechercher</p>
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-gray-200">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
-                </svg>
-            </a>
         </div>
 
         {% block content %} {% endblock %}
