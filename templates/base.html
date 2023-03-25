@@ -7,20 +7,20 @@
         <meta property="og:image" content="/icon.webp" />
         <meta name="theme-color" content="#151515" />
         <title>Poios</title>
-        <link rel="icon" href="/favicon.webp" defer="" />
+        <link rel="icon" type="image/webp" href="/favicon.webp">
         <link rel="stylesheet" href="/tailwind.css" />
     </head>
     <body class="bg-gray-100 dark:bg-zinc-900 dark:text-white">
         <div class="h-14 bg-[#151515] text-white flex justify-center items-center">
             <div class="flex space-x-7 mr-[30rem]">
-                <a href="/search/poltique" class="text-sm text-gray-100 font-semibold">Politique</a>
-                <a href="/search/economie" class="text-sm text-gray-100 font-semibold">Économie</a>
-                <a href="/search/droit" class="text-sm text-gray-100 font-semibold">Droit</a>
-                <a href="/search/societe" class="text-sm text-gray-100 font-semibold">Société</a>
-                <a href="/search/culture" class="text-sm text-gray-100 font-semibold">Culture</a>
+                <a href="/politique" class="text-sm text-gray-100 font-semibold">Politique</a>
+                <a href="/economie" class="text-sm text-gray-100 font-semibold">Économie</a>
+                <a href="/droit" class="text-sm text-gray-100 font-semibold">Droit</a>
+                <a href="/societe" class="text-sm text-gray-100 font-semibold">Société</a>
+                <a href="/culture" class="text-sm text-gray-100 font-semibold">Culture</a>
             </div>
             {% set image = resize_image(path='/favicon.webp', width=80, height=70, op='scale', format='webp', quality=100) %}
-            <img alt="Poios" src="{{ image.url }}" width="40" height="40" draggable="false" class="absolute" />
+            <a href="/" class="absolute"><img alt="Poios" src="{{ image.url }}" width="40" height="40" draggable="false" /></a>
             <a href="/search" class="flex space-x-2">
                 <p class="text-sm text-gray-100 font-semibold">Rechercher</p>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-gray-200">
