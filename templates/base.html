@@ -7,18 +7,30 @@
         <meta property="og:image" content="/icon.webp" />
         <meta name="theme-color" content="#151515" />
         <title>Poios</title>
-        <link rel="icon" href="/favicon.webp" defer="" />
+        <link rel="icon" type="image/webp" href="/favicon.webp">
         <link rel="stylesheet" href="/tailwind.css" />
     </head>
     <body class="bg-gray-100 dark:bg-zinc-900 dark:text-white">
+        <div class="h-14 bg-[#151515] text-white flex">
+            <div class="mx-auto items-center flex space-x-7">
+                {% set image = resize_image(path='/favicon.webp', width=80, height=70, op='scale', format='webp', quality=100) %}
+                <a href="/" ><img alt="Poios" src="{{ image.url }}" width="40" height="40" draggable="false" /></a>
+                <a href="/politique" class="text-sm text-gray-100 font-semibold">Politique</a>
+                <a href="/economie" class="text-sm text-gray-100 font-semibold">Économie</a>
+                <a href="/droit" class="text-sm text-gray-100 font-semibold">Droit</a>
+                <a href="/societe" class="text-sm text-gray-100 font-semibold">Société</a>
+                <a href="/culture" class="text-sm text-gray-100 font-semibold">Culture</a>
+            </div>
+        </div>
+
         {% block content %} {% endblock %}
 
         <footer>
             <div class="mx-auto max-w-7xl overflow-hidden py-12 px-4 sm:px-6 lg:px-8">
                 <nav class="-mx-5 -my-2 flex flex-wrap justify-center">
-                    <div class="px-5 py-2"><a href="https://gravitalia.gravitalia.workers.dev/" class="text-base text-gray-600 hover:text-gray-900">Gravitalia</a></div>
-                    <div class="px-5 py-2"><a href="https://account-1hw.pages.dev/terms" class="text-base text-gray-600 hover:text-gray-900">Termes</a></div>
-                    <div class="px-5 py-2"><a href="https://account-1hw.pages.dev/privacy" class="text-base text-gray-600 hover:text-gray-900">Confidentialité</a></div>
+                    <div class="px-5 py-2"><a href="https://www.gravitalia.com/" class="text-base text-gray-600 hover:text-gray-900">Gravitalia</a></div>
+                    <div class="px-5 py-2"><a href="https://account.gravitalia.com/terms" class="text-base text-gray-600 hover:text-gray-900">Termes</a></div>
+                    <div class="px-5 py-2"><a href="https://account.gravitalia.com/privacy" class="text-base text-gray-600 hover:text-gray-900">Confidentialité</a></div>
                 </nav>
                 <div class="mt-8 flex justify-center space-x-6">
                     <a href="https://twitter.com/GravitaliaInc" class="text-gray-400 hover:text-gray-500">

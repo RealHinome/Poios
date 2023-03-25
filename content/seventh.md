@@ -6,7 +6,7 @@ draft = false
 slug = "faillite-de-la-svb-le-credit-suisse-bientot-rachete"
 
 [extra]
-image = "/content/Credit-Suisse.webp"
+image = "/content/Credit_Suisse.jpeg"
 image_alt = "Photo of the Credit Suisse, from Wikipedia (CC BY-SA 4.0)"
 image_credit = "Ank Kumar, CC BY-SA <https://creativecommons.org/licenses/by-sa/4.0/>, via Wikimedia Commons"
 category = "Économie"

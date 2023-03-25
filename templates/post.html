@@ -1,8 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-<br />
-  <a href="/" class="inline-flex items-center py-2 px-3 text-sm font-medium text-center focus:outline-none">
+  <a href="/" class="mt-3 ml-96 inline-flex items-center py-2 px-3 text-sm font-medium text-center focus:outline-none absolute">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="ml-2 -mr-1 w-4 h-4 mr-2">
       <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
     </svg>
@@ -10,28 +9,17 @@
     Page d'accueil
   </a>
 
-  <div class="w-full lg:w-1/2 xl:w-4/6 min-[1600px]:w-2/4 mx-auto bg-white rounded-sm px-6 py-4">
+  <div class="w-full lg:w-1/2 xl:w-4/6 min-[1600px]:w-2/5 mx-auto bg-white rounded-sm px-6 py-4">
     <span class="bg-zinc-900 px-2.5 py-1.5 text-white text-sm rounded-sm">{{ page.extra.category }}</span>
-    <h1 class="text-4xl font-bold">{{ page.title }}</h1>
-    <div class="flex">
-      <h3 class="font-medium">{{ page.description }}</h3>
-      <!-- <a href="{{ page.extra.word }}" target="_blank" class="hidden lg:block"><img alt="Microsoft Word" width="60" height="auto" src="/Word.webp" draggable="false" /></a> -->
-    </div>
-    <p class="text-gray-600 text-sm pt-2">Publié le {{ page.date }}</p>
+    <h1 class="pt-4 text-2xl font-semibold">{{ page.title }}</h1>
+    <h2 class="text-gray-700">{{ page.description }}</h2>
+    <p class="pt-4 text-sm">Publié le {{ page.date }}</p>
     <br /><hr /><br />
-    <div class="flex">
-      <img width="600" height="100" src="{{ page.extra.image }}" alt="{{ page.extra.image_alt }}" />
-      <span class="pl-4"></span><div class="w-full border pl-4 hidden xl:block">
-        <p class="font-bold text-xl pt-2">Les chiffres clés</p>
-        {% for key in page.extra.key %}
-          <p>· {{ key }}</p>
-        {% endfor %}
-      </div>
-    </div>
-    <p class="text-gray-600 text-xs">{{ page.extra.image_credit }}</p>
+    {% set image = resize_image(path=page.extra.image, width=1148, height=862, op='scale', format='webp', quality=100) %}
+    <img class="rounded-sm" draggable="false" width="575" height="431" src="{{ image.url }}" alt="{{ page.extra.image_alt }}" />
     <br />
-    <span>{{ page.content | safe }}</span>
+    <div class="max-w-prose">{{ page.content | safe }}</div>
     <br /><br />
-    <p id="editor" class="font-bold">- Poios</p>
+    <p class="font-bold">- Poios</p>
   </div>
 {% endblock content %}
