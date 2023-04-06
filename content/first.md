@@ -1,6 +1,6 @@
 +++
 title = "Hausse des taux directeurs de la BCE pour contrer l'inflation"
-description = "Lutte contre l'inflation : une hausse des taux directeurs et des taux d'intérêts par la Banque Cenrale Européenne. Des gouvernements réticents, une politique qui risque d'accentuer le ralantissement économique."
+description = "La BCE augmente les taux pour lutter contre l'inflation, mais les gouvernements craignent l'impact sur la croissance."
 date = 2022-12-10
 draft = false
 slug = "hausse-des-taux-directeurs-de-la-BCE-pour-contrer-inflation"
