@@ -27,7 +27,7 @@ key = [
 ]
 +++
 
-La **BCE** (Banque centrale européenne), présidée par Christine Lagarde depuis 2019, ex-directrice générale du FMI (Fonds monétaire international), a augmenté ses taux directeurs, mais aussi ses taux d'intérêts. Suite à la crise sanitaire ayant touché tous les pays de la Zone Euro, à la guerre en Ukraine et à d’autres facteurs comme les anciens taux directeurs proches de 0 % voire négatifs, l'inflation n’a cessé de galoper.
+La **BCE** (Banque centrale européenne), présidée par Christine Lagarde depuis 2019, ex-directrice générale du FMI (Fonds monétaire international), a augmenté ses taux directeurs, ainsi que ses taux d'intérêts. Suite à la crise sanitaire qui a touché tous les pays de la zone euro, à la guerre en Ukraine et à d’autres facteurs comme les anciens taux directeurs proches de 0 % voire négatifs, l'inflation a augmenté de façon significative.
 
 <br />
 
