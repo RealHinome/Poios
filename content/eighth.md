@@ -1,6 +1,6 @@
 +++
 title = "Réforme des retraies 2023 : une chronologie"
-description = "A l'heure où la réforme des retraites crystallise les opinions, où les syndicats sont dans toutes les bouches, il est temps de savoir."
+description = "A l'heure où la réforme des retraites fait diverger les opinions, où les syndicats sont dans toutes les bouches, il est temps de savoir."
 date = 2023-04-03
 draft = false
 slug = "reforme-des-retraies-2023-une-chronologie"
