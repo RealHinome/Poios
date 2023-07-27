@@ -7,18 +7,18 @@ slug = "nouvelle-hausse-des-taux-d-interets-aux-etats-unis"
 
 [extra]
 image = "/content/Federal_Reserve_Bank_of_Chicago.jpeg"
-image_alt = "Photo of the Assemblée Nationale, from Wikipedia (CC BY-SA 2.0)"
+image_alt = "Photo of the Federal Reserve Bank of Chicago, from Wikipedia (CC BY-SA 2.0)"
 image_credit = "Ken Lund (on Flickr), CC BY-SA <https://creativecommons.org/licenses/by-sa/2.0/>, via Wikimedia Commons"
 category = "Économie"
 word = "https://1drv.ms/w/s!AlspBspWfTI8xiP8y3FMhCMyOBI7?e=LC8q89"
 sources = [
   "https://www.imf.org/fr/Blogs/Articles/2023/04/11/global-financial-system-tested-by-higher-inflation-and-interest-rates",
-  "https://www.bfmtv.com/economie/international/le-fmi-releve-legerement-sa-prevision-de-croissance-mondiale-pour-2023-a-3_AD-202307250408.html#:~:text=Du%20c%C3%B4t%C3%A9%20des%20Etats%2DUnis,%2C6%25%20en%20avril%20dernier.",
+  "https://www.bfmtv.com/economie/international/le-fmi-releve-legerement-sa-prevision-de-croissance-mondiale-pour-2023-a-3_AD-202307250408.html",
   "https://www.lemonde.fr/economie/article/2023/07/26/aux-etats-unis-la-fed-decide-d-un-onzieme-relevement-de-ses-taux-directeurs-depuis-mars-2022_6183536_3234.html",
   "https://www.ecb.europa.eu/ecb/educational/explainers/tell-me-more/html/stableprices.fr.html",
   "https://www.federalreserve.gov/faqs/economy_14400.htm",
-  "https://www.vie-publique.fr/eclairage/286182-inflation-les-causes-de-la-soudaine-hausse-des-prix#pourquoi-linflation-est-elle-soudainement-%C3%A9lev%C3%A9e",
-  "https://www.lefigaro.fr/conjoncture/etats-unis-la-fed-releve-ses-taux-au-plus-haut-depuis-2001-20230726#:~:text=La%20banque%20centrale%20am%C3%A9ricaine%20(Fed,lors%20de%20la%20pr%C3%A9c%C3%A9dente%20r%C3%A9union."
+  "https://www.vie-publique.fr/eclairage/286182-inflation-les-causes-de-la-soudaine-hausse-des-prix",
+  "https://www.lefigaro.fr/conjoncture/etats-unis-la-fed-releve-ses-taux-au-plus-haut-depuis-2001-20230726"
 ]
 key = [
   "Taux directeurs augmenté de 0,25 %",
