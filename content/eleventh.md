@@ -7,7 +7,7 @@ slug = "tensions-et-arrets-maladie-massifs-au-sein-des-forces-de-l-ordre"
 
 [extra]
 image = "/content/Policiers-francais.jpeg"
-image_alt = "Photo of a manifestation in Strasbourg, from Wikipedia (CC BY-SA 2.0)"
+image_alt = "Photo of a manifestation in Strasbourg, from Wikipedia (CC BY-SA 3.0)"
 image_credit = "Claude TRUONG-NGOC, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/deed.en>, via Wikimedia Commons"
 category = "Société"
 word = "https://1drv.ms/w/s!AlspBspWfTI8xiHuwfAPh51ti_7p?e=anXzoo"
