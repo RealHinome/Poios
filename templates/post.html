@@ -15,8 +15,9 @@
     <h2 class="text-gray-700">{{ page.description }}</h2>
     <p class="pt-4 text-sm">Publié le {{ page.date }}</p>
     <br /><hr /><br />
-    {% set image = resize_image(path=page.extra.image, width=1148, height=862, op='scale', format='webp', quality=100) %}
+    {% set image = resize_image(path=page.extra.image, width=1148, height=862, op='scale', format='webp', quality=90) %}
     <img class="rounded-sm" draggable="false" width="575" height="431" src="{{ image.url }}" alt="{{ page.extra.image_alt }}" />
+    <p class="pt-1 text-xs">{{ page.extra.image_credit }}</p>
     <br />
     <div class="max-w-prose">{{ page.content | safe }}</div>
     <br /><br />
