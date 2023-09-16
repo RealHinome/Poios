@@ -33,7 +33,7 @@ Le bilan dominical annoncé par le ministère de l’Intérieur déplore 2 122 m
 
 Les images des paysages dévastés montrent la force du séisme. Une partie d’un minaret s’est effondré sur la place Jamaa Alfna, une place célèbre et fréquentée, ayant causé deux blessures. Selon l’Agence France-Presse (AFP), des centaines de personnes, munies de couverture, ont afflués sur la place afin d’y passer la nuit afin d’éviter des complications en cas de réplique sismique. 
 
-En outre, le séisme a été tellement forte que plusieurs vibrations, plusieurs secousses, ont été senties dans la capitale, Rabat, et dans sa plus grande ville, Casablanca. De crainte d’un effondrement, plusieurs familles sont descendues dans les rues, selon les diverses images circulantes sur les réseaux sociaux. 
+En outre, le séisme a été tellement fort que plusieurs vibrations, plusieurs secousses, ont été senties dans la capitale, Rabat, et dans sa plus grande ville, Casablanca. De crainte d’un effondrement, plusieurs familles sont descendues dans les rues, selon les diverses images circulantes sur les réseaux sociaux. 
 
 <br />
 
