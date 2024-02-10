@@ -9,6 +9,26 @@
         <title>Poios</title>
         <link rel="icon" type="image/webp" href="/favicon.webp">
         <link rel="stylesheet" href="/tailwind.css" />
+        <style>
+          .prose h1 {
+            @apply text-2xl font-bold
+          }
+          .prose h2 {
+            @apply text-xl font-semibold
+          }
+          .prose ol {
+            @apply list-decimal
+          }
+          .prose ul {
+            @apply list-disc
+          }
+          .prose blockquote {
+            @apply p-4 my-4 border-l-4 border-gray-300 bg-gray-50
+          }
+          .prose code {
+            @apply text-red-500 bg-gray-50
+          }
+        </style>
     </head>
     <body class="bg-gray-100 dark:bg-zinc-900 dark:text-white">
         <div class="h-14 bg-[#151515] text-white flex">
